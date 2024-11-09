@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning WEB DEVELOPEMENT
-- 💬 Ask me about ANY THING
+- 🔭 I’m currently working on tasvirai.online
+- 🌱 Fullstack dev & A.I engineer
 - 📫 How to reach me: @gauragastya
-
