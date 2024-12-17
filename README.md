@@ -1,4 +1,4 @@
-### <div align="center">I'm agastya,  Fullstack dev || web3 & A.I engineer 🚀</div>  
+v### <div align="center">I'm agastya,  Fullstack dev || web3 & A.I engineer 🚀</div>  
   
 
 - 🔭 I’m currently working on [tasvirai.online](https://www.tasvirai.online)  
@@ -96,7 +96,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="[https://github-readme-stats.vercel.app/api?username=agastya18&show_icons=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=agastya18&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark)" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=agastya18&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" /></div>  
 
 <br/>  
 
