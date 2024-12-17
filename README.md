@@ -1,4 +1,4 @@
-v### <div align="center">I'm agastya,  Fullstack dev || web3 & A.I engineer 🚀</div>  
+ <div align="center">I'm agastya,  Fullstack dev || web3 & A.I engineer 🚀</div>  
   
 
 - 🔭 I’m currently working on [tasvirai.online](https://www.tasvirai.online)  
